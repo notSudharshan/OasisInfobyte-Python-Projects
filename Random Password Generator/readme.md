@@ -2,7 +2,7 @@ PASSWORD GENERATOR
 
 This is a simple Python-based password generator that allows users to create secure passwords based on their chosen criteria, using a Tkinter graphical interface.
 
-Objective
+-Objective
 
 To help users generate strong, random passwords quickly and easily for secure online accounts.
 
@@ -34,4 +34,5 @@ User can copy the generated password for use
 A functional password generator that is easy to use
 Useful for creating secure credentials instantly
 Demonstrates Python randomization, string handling, and GUI development
+
 
