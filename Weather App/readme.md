@@ -34,20 +34,28 @@ OpenWeather API
 
 How it Works
 
-User enters a city name in the text field
+User enters a city name in the text field.
 
-Clicks the "Get Weather" button
+Clicks the "Get Weather" button.
 
-The program sends a request to the OpenWeather API
+The program sends a request to the OpenWeather API.
 
-Displays the city name, temperature, humidity, and weather condition in the GUI
+Displays:
 
-Shows error messages for invalid cities or API issues
+City name
+
+Temperature
+
+Humidity
+
+Weather condition
+
+Shows error messages for invalid city names or API issues.
 
 Outcome
 
-A functional weather-checking tool that is beginner-friendly
+A functional weather-checking tool that is beginner-friendly.
 
-Useful for quick weather checks without opening a browser
+Useful for quick weather checks without opening a browser.
 
-Demonstrates Python API integration and GUI creation with Tkinter
+Demonstrates Python API integration and GUI creation with Tkinter.
