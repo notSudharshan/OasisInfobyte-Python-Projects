@@ -1,4 +1,4 @@
--Weather App 2025
+WEATHER APP
 
 This is a simple Python-based weather application that allows users to check real-time weather for any city using the OpenWeather API, with a clean Tkinter interface.
 
@@ -36,5 +36,6 @@ Shows error messages for invalid cities or API issues
 A functional weather-checking tool that is beginner-friendly
 Useful for quick weather checks without opening a browser
 Demonstrates Python API integration and GUI creation with Tkinter
+
 
 
