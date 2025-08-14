@@ -1,4 +1,4 @@
-Password Maker 2025
+PASSWORD GENERATOR
 
 This is a simple Python-based password generator that allows users to create secure passwords based on their chosen criteria, using a Tkinter graphical interface.
 
@@ -10,9 +10,9 @@ To help users generate strong, random passwords quickly and easily for secure on
 
 Accepts user input for desired password length
 Options to include:
-Letters (A–Z, a–z)
-Numbers (0–9)
-Symbols (!@#$...)
+Letters (A–Z, a–z), 
+Numbers (0–9), 
+Symbols (!@#$...),
 Displays the generated password in a read-only field to prevent accidental editing
 Generates passwords instantly with one click
 
@@ -34,3 +34,4 @@ User can copy the generated password for use
 A functional password generator that is easy to use
 Useful for creating secure credentials instantly
 Demonstrates Python randomization, string handling, and GUI development
+
